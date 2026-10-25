@@ -1,4 +1,4 @@
-# Active Directory VAPT Lab
+# Active Directory Lab
 
 Hands-on Active Directory security lab documenting enumeration, authentication, and controlled attack techniques in an isolated environment.
 
