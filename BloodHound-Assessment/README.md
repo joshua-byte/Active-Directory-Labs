@@ -22,3 +22,12 @@ Hands-on Active Directory security assessment performed in an isolated lab using
 - Identification of privileged group relationships
 - Remediation and verification
 
+## Detailed Report
+
+See [Bloodhound_Lab Report](./AD_ASREP_Report.docx)
+for the full methodology, screenshots, findings, and remediation.
+
+## Evidence
+
+Screenshots used to validate the test and remediation are
+available in [`evidence/`](./evidence/).
