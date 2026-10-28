@@ -5,8 +5,8 @@ Hands-on Active Directory security assessment performed in an isolated lab using
 ## Lab
 
 - Domain: `corp.local`
-- Domain Controller: `**DC01**`
-- DC IP: `**192**.**168**.56.**101**`
+- Domain Controller: `DC01`
+- DC IP: `192.168.56.101`
 - Workstation: Windows 10
 - Attacker: Kali Linux
 - Tool: BloodHound CE
