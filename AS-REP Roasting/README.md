@@ -107,21 +107,12 @@ The retest was reported as completed. The expected passing result is that the re
 - Apply the principle of least privilege to domain accounts.
 - Retest after remediation to verify that the issue has been addressed.
 
-## Conclusion
+## Detailed Report
 
-The lab demonstrated the security implications of disabling Kerberos pre-authentication. The initial request returned AS-REP ticket material, after which the account configuration was corrected and verified using PowerShell.
-
-The exercise reinforces the importance of reviewing Active Directory account settings and validating security fixes through repeatable testing.
+See [AS-REP Roasting Lab Report](./AD_ASREP_Report.docx)
+for the full methodology, screenshots, findings, and remediation.
 
 ## Evidence
 
-The accompanying report contains screenshots of:
-
-1. Kali connectivity and Kerberos port checks.
-2. The initial AS-REP request.
-3. The remediation command.
-4. The corrected account configuration.
-
-## Scope and Safety
-
-All testing was performed in an authorised lab environment. Ticket material and other sensitive output should be redacted before reports or evidence are shared publicly.
+Screenshots used to validate the test and remediation are
+available in [`evidence/`](./evidence/).
