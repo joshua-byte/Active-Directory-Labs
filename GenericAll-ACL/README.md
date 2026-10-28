@@ -34,7 +34,7 @@ The excessive **ACL** permission was removed and the path was no longer present 
 
 ## Detailed Report
 
-See [GenericACL report](./GenericAll_ACL_Privilege_Escalation.docx)
+See [GenericACL report](./GenericAll_ACL_Privilege_Escalation_Report.docx)
 for the full methodology, screenshots, findings, and remediation.
 
 ## Evidence
