@@ -24,7 +24,7 @@ Hands-on Active Directory security assessment performed in an isolated lab using
 
 ## Detailed Report
 
-See [Bloodhound_Lab Report](./AD_ASREP_Report.docx)
+See [Bloodhound_Lab Report](./report/AD-BloodHound.docx)
 for the full methodology, screenshots, findings, and remediation.
 
 ## Evidence
