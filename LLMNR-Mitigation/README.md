@@ -50,3 +50,8 @@ The mitigation was verified on a single Windows 10 workstation. Domain-wide enfo
 - Wireshark
 - tcpdump
 - Kali Linux
+
+## Evidence
+
+Screenshots used to validate the test and remediation are
+available in [`evidence/`](./llmr_mitigation_evidence/).
