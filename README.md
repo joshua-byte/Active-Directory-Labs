@@ -11,6 +11,10 @@ Hands-on Active Directory security lab documenting enumeration, authentication, 
 - Attacker: Kali Linux
 - Domain user: `CORP\alice`
 
+### Lab Environment
+
+The lab was initially configured under `corp.local`. After moving to a new computer, I rebuilt the environment using `adlab.test` for subsequent testing. Domain names and configurations may therefore differ between individual lab projects.
+
 ## What I Practiced
 
 - Nmap service enumeration
