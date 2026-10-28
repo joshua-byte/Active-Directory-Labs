@@ -48,17 +48,16 @@ A benign registry preference was also used to verify that the test GPO applied t
 - The group's `GpoEdit` permission was verified on the test GPO.
 - Initial SYSVOL write access was demonstrated using a temporary file.
 - The excessive permission was removed.
-- The repeated write attempt was denied.
+- The repeated write attempt was denied after remediation.
 
-## Repository Contents
+## Detailed Report
 
-- Lab setup and configuration notes
-- GPO permissions testing workflow
-- Remediation and retest evidence
-- Security assessment report
+See [GPO report](./GPO_Permissions_Report.docx)
+for the full methodology, screenshots, findings, and remediation.
 
-## Scope and Disclaimer
+## Evidence
 
-This project was conducted in an isolated VirtualBox lab for educational and defensive security testing.
+Screenshots used to validate the test and remediation are
+available in [`evidence/`](./GPO_evidence/).
 
-Only systems owned or explicitly authorized for testing should be assessed. The default domain policies were not used as test targets.
+
