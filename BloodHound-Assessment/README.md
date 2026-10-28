@@ -22,9 +22,3 @@ Hands-on Active Directory security assessment performed in an isolated lab using
 - Identification of privileged group relationships
 - Remediation and verification
 
-## Assessment Finding
-
-BloodHound identified the following privilege path:
-
-```text
-Alice → IT → Domain Admins
