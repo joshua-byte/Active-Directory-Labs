@@ -32,7 +32,12 @@ Bob was able to add himself to the `IT` group and obtain `Domain Admins` members
 
 The excessive **ACL** permission was removed and the path was no longer present after re-testing.
 
+## Detailed Report
 
-## Scope
+See [GenericACL report](./GenericAll_ACL_Privilege_Escalation.docx)
+for the full methodology, screenshots, findings, and remediation.
 
-All testing was performed against an authorized Active Directory lab environment.
+## Evidence
+
+Screenshots used to validate the test and remediation are
+available in [`evidence/`](./GenericAll-Evidence/).
