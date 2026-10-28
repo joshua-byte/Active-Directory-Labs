@@ -40,4 +40,4 @@ for the full methodology, screenshots, findings, and remediation.
 ## Evidence
 
 Screenshots used to validate the test and remediation are
-available in [`evidence/`](./GenericAll-Evidence/).
+available in [`GenericAll-Evidence/`](./GenericAll-Evidence/).
